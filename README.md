@@ -8,3 +8,5 @@ out on a cmyk printer.
 Find printer name: lpstat -p -d
 
 /dev/tty.usbserial-A900adQD with 9600 baud
+
+Video: https://vimeo.com/114442640
